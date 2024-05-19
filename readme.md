@@ -12,6 +12,8 @@ Además, necesitarás tener instalado SuperCollider. Puedes descargarlo desde aq
 Uso
 Ejecuta el script de Python para comenzar a capturar video y detectar movimiento.
 Ejecuta el script de SuperCollider para comenzar a recibir las coordenadas del movimiento y generar sonido.
+
+
 Motion Detection and Sound Generation
 This project uses Python and SuperCollider to detect real-time motion through a webcam and generate sound based on that motion.
 
